@@ -1,0 +1,50 @@
+body
+{
+    margin: 100px;
+    background-color: white;
+}
+
+img
+{
+    width: 55px;
+    height: 55px;
+    float:right;
+    margin: 50px;
+    
+}
+
+
+h1
+{
+    font-size: 50px;
+    text-align: center;
+    border: 10px solid black;
+    border-radius: 50px;
+}
+
+h2
+{
+    font-size: 40px;
+    text-align: center;
+}
+
+h3
+{
+    font-size: 30px;
+}
+
+p
+{
+    font-size: 20px;
+}
+
+ul
+{
+    font-size: 20px;
+}
+
+.darktheme
+{
+    color: black;
+}
+
